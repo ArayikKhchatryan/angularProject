@@ -1,0 +1,10 @@
+.head{
+  position: fixed;
+}
+
+.btnn{
+  margin: 3px 4px;
+  width: 85px;
+  height: 35px;
+  padding: 3px;
+}
